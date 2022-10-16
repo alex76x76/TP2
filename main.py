@@ -5,6 +5,22 @@ def read(path):
     array = [int(i) for i in open('test.txt').readline().split()]
     return array
 
+def readmax(path):
+    array = [int(i) for i in open('testmax.txt').readline().split()]
+    return array
+
+def readmin(path):
+    array = [int(i) for i in open('testmin.txt').readline().split()]
+    return array
+
+def readmult(path):
+    array = [int(i) for i in open('testmult.txt').readline().split()]
+    return array
+
+def readtim(path):
+    array = [int(i) for i in open('testtim.txt').readline().split()]
+    return array
+
 def _min(array):
     min_ = array[0]
     for z in array:
