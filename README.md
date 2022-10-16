@@ -4,7 +4,7 @@
 
 Статус тестов:
 
-![example workflow](https://github.com/alex76x76/TP2/blob/main/.github/workflows/yml.yml)
+![example workflow](https://img.shields.io/appveyor/build/alex76x76/TP2)
 
 
 # Александр Свиридов, 226
