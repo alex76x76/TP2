@@ -4,8 +4,7 @@
 
 Статус тестов:
 
-Status of last Deployment:<br>
-<img src='https://github.com/alex76x76/TP2/workflows/CICD/badge.svg?branch=master'><br>
+Status of last Deployment:<br><img src='https://github.com/alex76x76/TP2/workflows/CICD/badge.svg?branch=master'><br>
 
 
 # Александр Свиридов, 226
