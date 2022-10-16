@@ -1,7 +1,7 @@
 import unittest
 import random
 import time
-from main import _sum, _mult, _min, _max, read
+from main import _sum, _mult, _min, _max, read, readmax, readmin, readmult, readtim
 
 array = read("test.txt")
 arraymax = readmax("testmax.txt")
