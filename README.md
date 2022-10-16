@@ -4,7 +4,7 @@
 
 Статус тестов:
 
-![exampleworkflow](https://github.com/alex76x76/TP2/blob/main/.github/workflows/main.yml)
+![example workflow]([https://github.com/alex76x76/TP2/blob/main/.github/workflows/main.yml])
 
 
 # Александр Свиридов, 226
