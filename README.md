@@ -4,6 +4,6 @@
 
 Статус тестов:
 
-Status of last Deployment:<br><img src='https://img.shields.io/appveyor/build/alex76x76/TP2'><br>
+Status of last Deployment:<br><img src='https://github.com/alex76x76/TP2/workflows/CICD/badge.svg?branch=main'><br>
 
 # Александр Свиридов, 226
