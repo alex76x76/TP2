@@ -4,7 +4,8 @@
 
 Статус тестов:
 
-![example workflow](https://github.com/alex76x76/TP2/actions/main/.github/workflows/yml.yml)
+Status of last Deployment:<br>
+<img src='https://github.com/alex76x76/TP2/workflows/CICD/badge.svg?branch=master'><br>
 
 
 # Александр Свиридов, 226
