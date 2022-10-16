@@ -4,10 +4,10 @@ import time
 from main import _sum, _mult, _min, _max, read
 
 array = read("test.txt")
-arraymax = read("testmax.txt")
-arraymin = read("testmin.txt")
-arraymult = read("testmult.txt")
-arraytim = read("testtim.txt")
+arraymax = readmax("testmax.txt")
+arraymin = readmin("testmin.txt")
+arraymult = readmult("testmult.txt")
+arraytim = readtim("testtim.txt")
 
 class utest(unittest.TestCase):
     
